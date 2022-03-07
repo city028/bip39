@@ -1,1 +1,13 @@
-this is my readme, update it you lasy git!
+Hello there,
+
+This is my first attempt of coding in Rust.
+
+This small commandline programme takes the following inputs:
+
+--ip '<phrase>'
+--if '<filename>'
+--help
+
+With the two inputs, its creates a seed which can be used to create a wallet.
+
+Let me know if you have any feedback, happy to learnn from my mistakes.
