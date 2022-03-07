@@ -8,7 +8,7 @@ This small commandline programme takes the following inputs:
 --if '<filename>'
 --help
 
-With the two inputs, it creates a 24 word BIP39 seed phrase, either from a phrase or a file, which can be used to create a wallet.
+With one of the two inputs, it creates a 24 word BIP39 seed phrase, either from a phrase or a file, which can be used to create a wallet.
 
 Let me know if you have any feedback, happy to learn from my mistakes.
 
