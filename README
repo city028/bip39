@@ -1,3 +1,5 @@
+# Command line tool to create a BIP39 seed phrase from a phrase or file
+
 Hello there,
 
 This is my first attempt of coding in Rust.
